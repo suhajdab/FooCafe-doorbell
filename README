@@ -1,0 +1,7 @@
+FooCafé doorbell
+
+An event organizer friend of mine has a venue where entry is rather complicated.
+To make his life easier, he asked if I could build him a custom doorbell, that he could put up during events and that would ring on his mobile.
+
+Introducing the FooCafé Doorbell v1
+Featuring a NodeMCU powered by LiPo, connecting to the local wifi, communicating via PubNub with a mobile app.
